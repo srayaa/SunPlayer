@@ -14,7 +14,7 @@
     <permission android:name="com.iiplayer.sunplayer.permission.C2D_MESSAGE" android:protectionLevel="signature"/>
     <uses-permission android:name="com.iiplayer.sunplayer.permission.C2D_MESSAGE"/>
     <application android:theme="@style/AppTheme" android:label="@string/app_name" android:icon="@mipmap/ic_launcher" android:name="com.player.sunplayer.MyApplication" android:allowBackup="true" android:supportsRtl="true">
-    <activity android:label="@string/app_name" android:name="com.player.sunplayer.activity.MainActivity" android:launchMode="singleTask" android:windowSoftInputMode="adjustUnspecified|stateHidden|adjustPan">
+    <activity android:label="@string/app_name" android:theme="@style/AppTheme.NoActionBar" android:name="com.player.sunplayer.activity.MainActivity" android:launchMode="singleTask" android:windowSoftInputMode="adjustUnspecified|stateHidden|adjustPan">
         <intent-filter>
             <action android:name="android.intent.action.MAIN"/>
             <category android:name="android.intent.category.LAUNCHER"/>
