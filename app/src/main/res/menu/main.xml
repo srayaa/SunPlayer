@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:icon="@mipmap/liebiao_wode_icon_vip" android:id="@+id/vip" android:title="@string/download" app:showAsAction="ifRoom"/>
+    <item android:icon="@drawable/ic_file_download_black" android:id="@+id/download" android:title="@string/download" app:showAsAction="ifRoom"/>
+    <item android:icon="@mipmap/ic_history_black_36dp" android:id="@+id/record" android:title="@string/play_record" app:showAsAction="ifRoom"/>
+    <item android:id="@+id/add_bt" android:title="@string/add_bt" app:showAsAction="never"/>
+    <item android:id="@+id/open_file" android:title="@string/open_file" app:showAsAction="never"/>
+    <item android:id="@+id/rate_app" android:title="@string/rate_app" app:showAsAction="never"/>
+    <item android:id="@+id/website" android:title="@string/website" app:showAsAction="never"/>
+</menu>

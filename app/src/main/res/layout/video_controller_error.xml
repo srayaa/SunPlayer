@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:gravity="center" android:orientation="vertical" android:background="@color/bg_video_controller" android:clickable="true" android:layout_width="match_parent" android:layout_height="match_parent">
+    <TextView android:textSize="15sp" android:textColor="@color/white" android:gravity="center" android:id="@+id/video_error_info" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_marginLeft="56dp" android:layout_marginRight="56dp" android:text="视频加载失败"/>
+    <Button android:textSize="14sp" android:textColor="@color/white" android:id="@+id/video_error_retry" android:background="@drawable/correct_white_stroke" android:layout_width="160dp" android:layout_height="35dp" android:layout_marginTop="26dp" android:text="点此重试"/>
+</LinearLayout>

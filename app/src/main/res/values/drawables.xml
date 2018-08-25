@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="ic_menu_help">@android:drawable/ic_menu_help</drawable>
+    <drawable name="ic_menu_manage">@android:drawable/ic_menu_manage</drawable>
+    <drawable name="ic_menu_send">@android:drawable/ic_menu_send</drawable>
+    <drawable name="ic_menu_share">@android:drawable/ic_menu_share</drawable>
+    <drawable name="ic_menu_slideshow">@android:drawable/ic_menu_slideshow</drawable>
+    <drawable name="notification_template_icon_bg">#3333b5e5</drawable>
+    <drawable name="notification_template_icon_low_bg">#0cffffff</drawable>
+    <drawable name="tab_gray">@color/bg_gray</drawable>
+    <drawable name="tab_white">@android:color/white</drawable>
+</resources>

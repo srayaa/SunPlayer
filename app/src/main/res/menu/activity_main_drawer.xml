@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" xmlns:aapt="http://schemas.android.com/aapt">
+    <item android:icon="@mipmap/ic_help_black" android:id="@+id/nav_history" android:title="@string/play_record"/>
+    <item android:icon="@mipmap/ic_help_black" android:id="@+id/nav_send" android:title="@string/about"/>
+    <item android:icon="@mipmap/ic_help_black" android:id="@+id/nav_help" android:title="@string/help_text"/>
+</menu>
